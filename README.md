@@ -93,7 +93,7 @@ Non-working days were excluded from some performance calculations to avoid affec
 - Focus more on high-performing weekdays
 - Focus on quality of interactions, not only quantity
 --- 
-# 📌 Conclusion
+# Conclusion
 The analysis showed that improving conversion in the middle and final stages of the funnel could help increase revenue the most. The project also showed that the quality of presentations has a bigger impact on sales results than activity alone.
 
 <img width="1329" height="750" alt="image" src="https://github.com/user-attachments/assets/2cc9cb72-080a-420e-bb33-d0307f53e8be" />
