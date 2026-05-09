@@ -1,4 +1,4 @@
-# 📊 Personal Sales Performance Analysis
+# Personal Sales Performance Analysis
 
 This project analyzes personal field sales data in Power BI to better understand sales performance, revenue trends, and conversion rates across different stages of the sales process.
 
@@ -29,7 +29,7 @@ The dashboard includes:
 
 ---
 
-# 🗂 Dataset Description
+# Dataset Description
 
 | Column | Description |
 |---|---|
@@ -52,7 +52,7 @@ Some columns like `Weak` and `Solid` were not used because their business meanin
 
 ---
 
-# 🧹 Data Cleaning & Transformation
+# Data Cleaning & Transformation
 
 Data cleaning was done in **Power Query** and included:
 
