@@ -1,6 +1,8 @@
 # Personal Sales Performance Analysis
 
-Link to Power BI Public: https://app.powerbi.com/groups/me/reports/f0ebc7f9-08cf-4171-9dd1-6df538357b01?ctid=53bc24c5-73ad-421a-9408-3ea555be4a07&pbi_source=linkShare
+Link to Power BI Public: 
+
+https://app.powerbi.com/groups/me/reports/f0ebc7f9-08cf-4171-9dd1-6df538357b01?ctid=53bc24c5-73ad-421a-9408-3ea555be4a07&pbi_source=linkShare
 
 This project analyzes personal field sales data in Power BI to better understand sales performance, revenue trends, and conversion rates across different stages of the sales process.
 
